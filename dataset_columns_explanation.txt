@@ -1,0 +1,91 @@
+Dataset Columns Explanation
+===========================
+
+1. Store
+   - Unique identifier for each store.
+   - Example: 1 = Store 1, 2 = Store 2, etc.
+
+2. DayOfWeek
+   - Day of the week as a number (1 = Monday, 7 = Sunday).
+   - Helps analyze sales patterns by day.
+
+3. Date
+   - The specific date of the sales record (YYYY-MM-DD).
+   - Example: 2015-07-31 = July 31, 2015.
+
+4. Sales
+   - Total sales for the store on that day (in currency, e.g., rupees).
+   - Example: 5263 = 5,263 rupees in sales.
+
+5. Customers
+   - Number of customers who visited the store that day.
+   - Example: 555 = 555 customers.
+
+6. Open
+   - Whether the store was open that day.
+     - 1 = Open
+     - 0 = Closed
+
+7. Promo
+   - Indicates if a short-term promotion was active.
+     - 1 = Promotion active
+     - 0 = No promotion
+
+8. StateHoliday
+   - Whether the day was a state holiday.
+     - 0 = No holiday
+     - a, b, c = Different types of holidays
+
+9. SchoolHoliday
+   - Indicates if it was a school holiday.
+     - 1 = Yes
+     - 0 = No
+
+10. StoreType
+    - Category of the store, representing size or format.
+    - Example:
+      - a = small store
+      - b = medium store
+      - c = large store
+
+11. Assortment
+    - The range of products sold at the store.
+    - Example:
+      - a = Basic assortment
+      - b = Extra assortment
+      - c = Extended assortment
+
+12. CompetitionDistance
+    - Distance (in meters) to the nearest competitor store.
+    - Example: 1270.0 = 1.27 km away.
+
+13. CompetitionOpenSinceMonth
+    - Month when the nearest competitor opened.
+    - Example: 9.0 = September
+
+14. CompetitionOpenSinceYear
+    - Year when the nearest competitor opened.
+    - Example: 2008.0
+
+15. Promo2
+    - Whether the store participates in a continuous, long-term promotion program.
+      - 1 = Yes
+      - 0 = No
+
+16. Promo2SinceWeek
+    - Week number when Promo2 started.
+    - Example: 13.0 = 13th week of the year (late March)
+
+17. Promo2SinceYear
+    - Year when Promo2 started.
+    - Example: 2010.0
+
+18. PromoInterval
+    - Months when the long-term promotion is active.
+    - Example: "Jan,Apr,Jul,Oct" = active in January, April, July, and October.
+
+Summary:
+--------
+- Daily info: Date, Sales, Customers, Open, Promo, StateHoliday, SchoolHoliday
+- Store info: StoreType, Assortment, CompetitionDistance, CompetitionOpenSinceMonth/Year, Promo2, Promo2SinceWeek/Year, PromoInterval
+- This dataset helps understand what affects sales: days, holidays, store type, promotions,competition and many more .
