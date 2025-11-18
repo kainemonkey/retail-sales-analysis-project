@@ -1,0 +1,89 @@
+
+This file explains the key images from Day 3 EDA.
+Each image has a 3-line description and 2-line business guess.
+Images are in the images/ folder.
+Focus on 7 main visuals for clear insights.
+
+
+
+
+1. top10_stores.png - Top 10 Stores by Total Sales
+Explanation:
+This bar chart shows the top 10 stores ranked by total sales over three years.
+Store 262 leads with about 2 million euros in sales.
+Other top stores range from 1 to 1.75 million euros each.
+Business Guess:
+These stores may be in busy city areas with more customers.
+Invest more in them to keep high sales and learn from their success.
+
+
+
+2. missing_values_heatmap.png - Missing Values Heatmap
+Explanation:
+This heatmap uses colors to show missing data in each column.
+Blue means no missing values, like in Sales and Customers.
+Yellow shows higher missing rates in Promo2 and Competition features, up to 80%.
+Business Guess:
+Many small stores skip Promo2, so focus on big ones for promotions.
+Use flags for missing data to make models work better.
+
+
+
+3. dow_sales.png - Average Sales by Day of Week
+Explanation:
+This bar chart plots average sales for each day from Monday to Sunday.
+Monday and Saturday reach about 8,000 euros each.
+Sunday is lowest at around 5,000 euros due to store closures.
+Business Guess:
+Plan more staff and ads for Monday and Saturday to boost peaks.
+Test opening more stores on Sunday to raise low sales.
+
+
+
+4. promo_effect.png - Average Sales: Promo vs No Promo
+Explanation:
+This bar chart compares sales on promo days to non-promo days.
+Promo days average 8,228 euros, while non-promo days average 5,929 euros.
+This shows a 39% increase from promotions.
+Business Guess:
+Run promotions more often to quickly lift sales across stores.
+Pair them with busy days like Monday for even bigger gains.
+
+
+
+5. monthly_sales.png - Average Daily Sales per Month
+Explanation:
+This bar chart shows average sales for each month from 2013 to 2015.
+Most months stay around 6,000 euros.
+December peaks at 7,500 euros due to holiday shopping.
+Business Guess:
+Stock more items in December to handle the sales rush.
+Add summer promotions to lift flat months like July.
+
+
+
+6. correlation.png - Correlation Matrix
+Explanation:
+This heatmap shows links between key features like Sales and Customers.
+Sales and Customers have a strong positive link of 0.82.
+Promo links to Sales at 0.37, while Day of Week shows a weak negative at -0.18.
+Business Guess:
+Drive more customers with ads, as they directly raise sales.
+Use Promo in models but ignore weak links like Month.
+
+
+
+7. storetype_sales.png - Sales Distribution by Store Type
+Explanation:
+This boxplot compares sales spread for store types a, b, c, and d.
+Type b has the highest median at 7,000 euros and big outliers.
+Type d has a tight range, showing steady but lower sales.
+Business Guess:
+Copy type b setups, like better stock, to other types.
+Add promotions to type d to increase their steady sales.
+
+
+
+
+
+

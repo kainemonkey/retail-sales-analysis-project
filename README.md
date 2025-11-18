@@ -48,6 +48,25 @@ The dataset combines daily sales records with store-level attributes such as pro
 
 ---
 
+
+
+## Day 3 – Progress (Completed Today)
+
+### Exploratory Data Analysis (EDA)
+- Analyzed only open stores (`Open == 1`)  
+- Created 7 clear visualizations (saved in `/images` folder)  
+- Key findings:  
+  - Promotions increase sales by **39%**  
+  - December has the highest sales every year (Christmas peak)  
+  - Store type 'b' has the best performance  
+  - Monday is the strongest day, Sunday the weakest  
+  - Sales and Customers are very strongly linked (correlation 0.82)  
+
+- Added `day3_explanations.txt` – short notes for each image  
+- Notebook: `3_eda.ipynb`  
+
+
+
 ## Next Steps (will come regularly)
 - Perform exploratory data analysis (EDA) with visualizations.  
 - Analyze sales trends based on year, month, week, and store behavior.  
